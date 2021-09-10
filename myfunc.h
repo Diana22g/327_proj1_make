@@ -1,3 +1,8 @@
+/*
+* myFunction header
+*
+*Diana G.
+*/
 #ifndef MYFUNC_H
 #define MYFUNC_H
 #include <string>
